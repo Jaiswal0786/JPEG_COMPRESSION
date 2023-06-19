@@ -1,0 +1,12 @@
+1 Compression Ration with trailing zeroes=7.27
+Compression Ratio without trailing zeroes = 660.55
+3 Compression Ration with trailing zeroes=7.27
+Compression Ratio without trailing zeroes = 386.55
+6 Compression Ration with trailing zeroes=7.27
+Compression Ratio without trailing zeroes = 256.83
+10 Compression Ration with trailing zeroes=7.27
+Compression Ratio without trailing zeroes = 181.37
+15 Compression Ration with trailing zeroes=7.27
+Compression Ratio without trailing zeroes = 151.03
+28 Compression Ration with trailing zeroes=7.27
+Compression Ratio without trailing zeroes = 115.02
